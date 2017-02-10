@@ -1,0 +1,28 @@
+{
+  "name": "useless-telegram-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "start-watch": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/viattik/useless-telegram-bot.git"
+  },
+  "author": "Andrei Sierkov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/viattik/useless-telegram-bot/issues"
+  },
+  "homepage": "https://github.com/viattik/useless-telegram-bot#readme",
+  "dependencies": {
+    "express": "^4.14.1"
+  },
+  "engines": {
+    "node": "6.9.3",
+    "npm": "4.0.5"
+  }
+}
